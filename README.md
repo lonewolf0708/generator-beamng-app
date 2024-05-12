@@ -20,6 +20,7 @@ yo beamng-app
 After answering a few questions about your app, you will be informed about the files generated.
 Edit them to achieve the functionality you want and then copy the folder to your mods directory
 (usually %localappdata%\BeamNG.drive\#.##\ui\modules\apps). 
-**NOTE: #.## IS THE HIGHEST BUILD/MOST RECENT VERSION LISTED (CURRENTLY 0.32)**
+
+## **NOTE: #.## IS THE HIGHEST BUILD/MOST RECENT VERSION LISTED (CURRENTLY 0.32)**
 
 That's it! Your app should now be listed under the available apps in the game selector.
